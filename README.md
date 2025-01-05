@@ -8,7 +8,7 @@ Developing a real-time credit risk assessment system by integrating traditional 
 ![Flow Chart](https://github.com/user-attachments/assets/76e382da-ac79-488e-a4ea-a30fd2ed0572)
 
 
-### Data Visualization
+## Data Visualization
 
 ![image](https://github.com/user-attachments/assets/8e7682ca-9e4d-4c7e-9caa-0f167a2a23e1)
 
